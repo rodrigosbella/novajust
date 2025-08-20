@@ -35,21 +35,20 @@
 7. Fica proibida a utilização de qualquer veículo alugado para realizar ações de fuga, troca de tiro, entre outras. É vedado, portanto, a utilização do helicóptero de aluguel para realizar ações de qualquer gênero. O objetivo deste e demais veículos de aluguel é somente para transporte.
 8. Proibida a desova de corpo.
 9. Proibido usar o /GG após a chegada do paramédico no local. Em caso de invasão para quebra de baú, fica proibido a utilização do /GG;
-10. Proibido CAIXA de SOM em zona safe (lembrando que muitos players estão em live e muitas plataformas derrubam as mesmas caso alguma música com direito autoral soe na live).
-11. Proibido camperar em SAFE ZONE.
-12. Proibido dar fuga em SAFE ZONE.
-13. Não é permitido roubar ou usar veículos de corporações, exceto no final de uma ação para sair do local. A viatura deve estar aberta e deve ser dispensada o mais breve possível pois caso identificada, a polícia poderá seguir com o RP.
-14. É extremamente proibido utilizar qualquer farda/uniforme para se passar por um policial, médico, mecânico ou militar;
-15. Proibido utilizar animações (bind, bvida, debug) para obter vantagens.
-16. Proibido matar, agredir ou sequestrar o Médico/Bombeiro/Mecânico/Policial que esteja em serviço. Exceto em casos específicos discriminados com contexto, o RP prévio e provas que justifiquem o motivo. Sequestros aleatórios e rotineiros devem ocorrer somente em cidadão comum. Obs.: Todos os sequestros devem ocorrer para fim de negociação e não finalização, sequestrar policiais com a justificativa dele ter te prendido não será considerado.
-17. Os bugs nas animações de sexo de forma intencional, manipulando as animações de outras pessoas é uma violação e quebra de regra, passível de banimento por DARK RP.
-18. Proibido veículos em cima da praça.
-19. Não é permitido o assalto/roubo a jogadores..
-20. É PROIBIDO após a polícia anunciar o PERÍMETRO ABERTO resgatar os corpos em uma ação de rua.
-21. Proibido utilizar armas de caça para matar pessoas.
-22. É proibido ficar tentando ensinar o RP que o outro deve conduzir (exemplo bandidos tentando ensinar o que deve ser feito num RP de policial e vice-versa).
-23. Proibido ficar “brincando” com o helicóptero pela cidade ou zonas safes, bem como não trafegar na altura adequada, não fazer manobras arriscadas, entre outras. O helicóptero deverá pousar apenas em locais adequados. Caso contrário, o piloto está sujeito a multa, perda da licença e até mesmo punições administrativas.
-24. Não utilizar modificador de voz em momentos de sequestro dará ao player a possibilidade de ser reconhecido;
+10. Proibido camperar em SAFE ZONE.
+11. Proibido dar fuga em SAFE ZONE.
+12. Não é permitido roubar ou usar veículos de corporações, exceto no final de uma ação para sair do local. A viatura deve estar aberta e deve ser dispensada o mais breve possível pois caso identificada, a polícia poderá seguir com o RP.
+13. É extremamente proibido utilizar qualquer farda/uniforme para se passar por um policial, médico, mecânico ou militar;
+14. Proibido utilizar animações (bind, bvida, debug) para obter vantagens.
+15. Proibido matar, agredir ou sequestrar o Médico/Bombeiro/Mecânico/Policial que esteja em serviço. Exceto em casos específicos discriminados com contexto, o RP prévio e provas que justifiquem o motivo. Sequestros aleatórios e rotineiros devem ocorrer somente em cidadão comum. Obs.: Todos os sequestros devem ocorrer para fim de negociação e não finalização, sequestrar policiais com a justificativa dele ter te prendido não será considerado.
+16. Os bugs nas animações de sexo de forma intencional, manipulando as animações de outras pessoas é uma violação e quebra de regra, passível de banimento por DARK RP.
+17. Proibido veículos em cima da praça.
+18. Não é permitido o assalto/roubo a jogadores..
+19. É PROIBIDO após a polícia anunciar o PERÍMETRO ABERTO resgatar os corpos em uma ação de rua.
+20. Proibido utilizar armas de caça para matar pessoas.
+21. É proibido ficar tentando ensinar o RP que o outro deve conduzir (exemplo bandidos tentando ensinar o que deve ser feito num RP de policial e vice-versa).
+22. Proibido ficar “brincando” com o helicóptero pela cidade ou zonas safes, bem como não trafegar na altura adequada, não fazer manobras arriscadas, entre outras. O helicóptero deverá pousar apenas em locais adequados. Caso contrário, o piloto está sujeito a multa, perda da licença e até mesmo punições administrativas.
+23. Não utilizar modificador de voz em momentos de sequestro dará ao player a possibilidade de ser reconhecido;
 
 #### METAGAMING <a href="#metagaming" id="metagaming"></a>
 
