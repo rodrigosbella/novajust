@@ -49,7 +49,7 @@
 21. É proibido ficar tentando ensinar o RP que o outro deve conduzir (exemplo bandidos tentando ensinar o que deve ser feito num RP de policial e vice-versa).
 22. Proibido ficar “brincando” com o helicóptero pela cidade ou zonas safes, bem como não trafegar na altura adequada, não fazer manobras arriscadas, entre outras. O helicóptero deverá pousar apenas em locais adequados. Caso contrário, o piloto está sujeito a multa, perda da licença e até mesmo punições administrativas.
 23. Não utilizar modificador de voz em momentos de sequestro dará ao player a possibilidade de ser reconhecido;
-24. É obrigatório utilizar modificador de voz para uso de skin feminina.
+24. É obrigatório o uso de modificador de voz para interpretar personagens femininas, caso o jogador não seja mulher ou não se identifique como tal.
 
 #### METAGAMING <a href="#metagaming" id="metagaming"></a>
 
