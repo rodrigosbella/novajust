@@ -14,6 +14,7 @@ icon: gun
 6. Os policiais responsáveis pelo atendimento de qualquer ação deverão entrar simultaneamente no perímetro da respectiva ação, sob risco de ficarem com contingente reduzido e/ou haver punição a quem não o fizer.
 7. Proibido a utilização de gasolina como arma em qualquer ação fechada.
 8. Fica permitido o uso do helicóptero policial para entrar sozinho no perímetro da ação por 2 minutos. Passados esses 2 minutos, é obrigatório que o restante do contingente policial entre no perímetro.
+9. É estritamente proibido que um player retorne a uma ação após morrer/desmaiar nela, independentemente da forma. Utilizando os serviços dos paramédicos, adrenalina, ressuscitação ou qualquer outro recurso.
 
 #### **TEMPO DE ESPERA NAS AÇÕES** <a href="#tempo-de-espera-nas-acoes" id="tempo-de-espera-nas-acoes"></a>
 
